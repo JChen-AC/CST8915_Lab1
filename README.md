@@ -1,8 +1,11 @@
 # CST8915 Lab 1: Algonquin Pet Store on Azure VM
 
 **Student Name**: Joshua Chen
+
 **Student ID**: 041280453
+
 **Course**: CST8915 Full-stack Cloud-native Development
+
 **Semester**: Winter 2026
 
 ---
